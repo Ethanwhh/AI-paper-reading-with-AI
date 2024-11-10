@@ -1,5 +1,6 @@
  # AI-paper-reading-with-AI
-
+ 
  ## DL
- |No.   |Figure   |Title   |Authors  |Pub.  |Links|
- |-----|:-----:|:-----:|:-----:|:-----:|:---:|
+ |Title|Authors|Summary|Links|
+ |---|---|---|---|
+ 
