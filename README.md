@@ -15,6 +15,12 @@
  ### Deep learning application
  |Title|Authors|Summary|Links|
  |-----|-------|-------|-----|
+
+ ### Dataset Distillation
+ |Title|Authors|Summary|Links|
+ |-----|-------|-------|-----|
+
+ 
  
 
 
