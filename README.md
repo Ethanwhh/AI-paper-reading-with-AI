@@ -30,7 +30,7 @@
  ### GUI agent
  |Title|Authors|Summary|Links|
  |-----|-------|-------|-----|
- |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents)|[paper](https://arxiv.org/abs/2403.17918)|
+ |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents.md)|[paper](https://arxiv.org/abs/2403.17918)|
  |Android in the Wild: A Large-Scale Dataset for Android Device Control|Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap|Summary|[paper](https://arxiv.org/abs/2307.10088)|
  |Android in the Zoo: Chain-of-Action-Thought for GUI Agents|Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang|Summary|[paper](https://arxiv.org/abs/2403.02713)|
 
