@@ -33,7 +33,7 @@
  |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents.md)|[paper](https://arxiv.org/abs/2403.17918)|
  |Android in the Wild: A Large-Scale Dataset for Android Device Control|Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap|[Summary](/Summary/Android-in-the-Wild-A-Large-Scale-Dataset-for-Android-Device-Control.md)|[paper](https://arxiv.org/abs/2307.10088)|
  |Android in the Zoo: Chain-of-Action-Thought for GUI Agents|Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang|[Summary](/Summary/Android-in-the-Zoo-Chain-of-Action-Thought-for-GUI-Agents.md)|[paper](https://arxiv.org/abs/2403.02713)|
- |AppAgent: Multimodal Agents as Smartphone Users|Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu|[Summary]|[paper](https://arxiv.org/abs/2312.13771)|
+ |AppAgent: Multimodal Agents as Smartphone Users|Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu|[Summary](/Summary/AppAgent-Multimodal-Agents-as-Smartphone-Users.md)|[paper](https://arxiv.org/abs/2312.13771)|
 
  ### LLM Security/Privacy/Jailbreak/Illusion
  |Title|Authors|Summary|Links|
