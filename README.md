@@ -34,6 +34,7 @@
  |Android in the Wild: A Large-Scale Dataset for Android Device Control|Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap|[Summary](/Summary/Android-in-the-Wild-A-Large-Scale-Dataset-for-Android-Device-Control.md)|[paper](https://arxiv.org/abs/2307.10088)|
  |Android in the Zoo: Chain-of-Action-Thought for GUI Agents|Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang|[Summary](/Summary/Android-in-the-Zoo-Chain-of-Action-Thought-for-GUI-Agents.md)|[paper](https://arxiv.org/abs/2403.02713)|
  |AppAgent: Multimodal Agents as Smartphone Users|Chi Zhang, Zhao Yang, Jiaxuan Liu, Yucheng Han, Xin Chen, Zebiao Huang, Bin Fu, Gang Yu|[Summary](/Summary/AppAgent-Multimodal-Agents-as-Smartphone-Users.md)|[paper](https://arxiv.org/abs/2312.13771)|
+ |ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation|Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou|[Summary]|[paper](https://arxiv.org/abs/2312.13108)|
 
  ### LLM Security/Privacy/Jailbreak/Illusion
  |Title|Authors|Summary|Links|
