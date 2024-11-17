@@ -1,7 +1,7 @@
 # ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 
 ## 思维导图
-[思维导图](/imgs/ASSISTGUI-Task-Oriented-Desktop-Graphical-User-Interface-Automation.jpg)
+![思维导图](/imgs/ASSISTGUI-Task-Oriented-Desktop-Graphical-User-Interface-Automation.jpg)
 
 ## 全文总结
 “ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation” 由 Difei Gao 等人撰写，主要介绍了用于评估模型在 Windows 平台上执行任务能力的 ASSISTGUI 基准，以及相关的实验和分析。
