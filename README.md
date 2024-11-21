@@ -39,6 +39,7 @@
  |CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents|Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqiang Xie, Yongchao Chen, Shilong Liu, Bochen Qian, Anjie Yang, Zhaoxuan Jin, Jianbo Deng, Philip Torr, Bernard Ghanem, Guohao Li|[Summary](/Summary/CRAB-Cross-environment-Agent-Benchmark-for-Multimodal-Language-Model-Agents.md)|[paper](https://arxiv.org/abs/2407.01511)|
  |Cradle: Empowering Foundation Agents Towards General Computer Control|Weihao Tan, Wentao Zhang, Xinrun Xu, Haochong Xia, Ziluo Ding, Boyu Li, Bohan Zhou, Junpeng Yue, Jiechuan Jiang, Yewen Li, Ruyi An, Molei Qin, Chuqiao Zong, Longtao Zheng, Yujie Wu, Xiaoqiang Chai, Yifei Bi, Tianbao Xie, Pengjie Gu, Xiyun Li, Ceyao Zhang, Long Tian, Chaojie Wang, Xinrun Wang, Börje F. Karlsson, Bo An, Shuicheng Yan, Zongqing Lu|[Summary]|[paper](https://arxiv.org/abs/2403.03186)|
  |DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning|Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar|[Summary]|[paper](https://arxiv.org/abs/2406.11896)|
+ |Enrico: A Dataset for Topic Modeling of Mobile UI Designs| Luis A. Leiva, Asutosh Hota, Antti Oulasvirta|[Summary]|[paper](https://dl.acm.org/doi/10.1145/3406324.3410710)|
 
 
 
