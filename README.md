@@ -41,7 +41,7 @@
  |DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning|Hao Bai, Yifei Zhou, Mert Cemri, Jiayi Pan, Alane Suhr, Sergey Levine, Aviral Kumar|[Summary](/Summary/DigiRL-Training-In-The-Wild-Device-Control-Agents-with-Autonomous-Reinforcement-Learning.md)|[paper](https://arxiv.org/abs/2406.11896)|
  |Enrico: A Dataset for Topic Modeling of Mobile UI Designs| Luis A. Leiva, Asutosh Hota, Antti Oulasvirta|[Summary](/Summary/Enrico-A-Dataset-for-Topic-Modeling-of-Mobile-UI-Designs.md)|[paper](https://dl.acm.org/doi/10.1145/3406324.3410710)|
  |Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs|Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan|[Summary](/Summary/Ferret-UI-Grounded-Mobile-UI-Understanding-with-Multimodal-LLMs.md)|[paper](https://arxiv.org/abs/2404.05719)|
- |Ferret: Refer and Ground Anything Anywhere at Any Granularity|Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang|[Summary]()|[paper](https://arxiv.org/abs/2310.07704)|
+ |Ferret: Refer and Ground Anything Anywhere at Any Granularity|Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang|[Summary](Summary/Ferret-Refer-and-Ground-Anything-Anywhere-at-Any-Granularity.md)|[paper](https://arxiv.org/abs/2310.07704)|
 
 
 
