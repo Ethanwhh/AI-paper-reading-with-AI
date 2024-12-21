@@ -42,7 +42,7 @@
  |Enrico: A Dataset for Topic Modeling of Mobile UI Designs| Luis A. Leiva, Asutosh Hota, Antti Oulasvirta|[Summary](/Summary/Enrico-A-Dataset-for-Topic-Modeling-of-Mobile-UI-Designs.md)|[paper](https://dl.acm.org/doi/10.1145/3406324.3410710)|
  |Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs|Keen You, Haotian Zhang, Eldon Schoop, Floris Weers, Amanda Swearngin, Jeffrey Nichols, Yinfei Yang, Zhe Gan|[Summary](/Summary/Ferret-UI-Grounded-Mobile-UI-Understanding-with-Multimodal-LLMs.md)|[paper](https://arxiv.org/abs/2404.05719)|
  |Ferret: Refer and Ground Anything Anywhere at Any Granularity|Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang|[Summary](Summary/Ferret-Refer-and-Ground-Anything-Anywhere-at-Any-Granularity.md)|[paper](https://arxiv.org/abs/2310.07704)|
- |GPT-4V(ision) is a Generalist Web Agent, if Grounded|Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su|[Summary]|[paper](https://arxiv.org/abs/2401.01614)|
+ |GPT-4V(ision) is a Generalist Web Agent, if Grounded|Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su|[Summary](/Summary/GPT-4V(ision)-is-a-Generalist-Web-Agent-if-Grounded.md)|[paper](https://arxiv.org/abs/2401.01614)|
 
 
 
