@@ -44,7 +44,7 @@
  |Ferret: Refer and Ground Anything Anywhere at Any Granularity|Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang|[Summary](Summary/Ferret-Refer-and-Ground-Anything-Anywhere-at-Any-Granularity.md)|[paper](https://arxiv.org/abs/2310.07704)|
  |GPT-4V(ision) is a Generalist Web Agent, if Grounded|Boyuan Zheng, Boyu Gou, Jihyung Kil, Huan Sun, Yu Su|[Summary](/Summary/GPT-4V(ision)-is-a-Generalist-Web-Agent-if-Grounded.md)|[paper](https://arxiv.org/abs/2401.01614)|
  |GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents|Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun|[Summary](/Summary/GUI-WORLD-A-Dataset-for-GUI-oriented-Multimodal-LLM-based-Agents.md)|[paper](https://arxiv.org/abs/2406.10819)|
- |GUICourse: From General Vision Language Models to Versatile GUI Agents|Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun|[Summary]|[paper](https://arxiv.org/abs/2406.11317)|
+ |GUICourse: From General Vision Language Models to Versatile GUI Agents|Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun|[Summary](/Summary/GUICourse-From-General-Vision-Language-Models-to-Versatile-GUI-Agents.md)|[paper](https://arxiv.org/abs/2406.11317)|
 
 
 
