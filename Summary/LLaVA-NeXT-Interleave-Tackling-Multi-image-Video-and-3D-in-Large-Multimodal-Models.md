@@ -1,7 +1,7 @@
 # LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models
 
 ## 思维导图
-![思维导图](LLaVA-NeXT-Interleave-Tackling-Multi-image-Video-and-3D-in-Large-Multimodal-Models.jpg)
+![思维导图](/imgs/LLaVA-NeXT-Interleave-Tackling-Multi-image-Video-and-3D-in-Large-Multimodal-Models.jpg)
 
 ## 全文总结
 
