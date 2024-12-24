@@ -46,6 +46,7 @@
  |GUI-WORLD: A Dataset for GUI-oriented Multimodal LLM-based Agents|Dongping Chen, Yue Huang, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, Chujie Gao, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan, Pan Zhou, Jianfeng Gao, Lichao Sun|[Summary](/Summary/GUI-WORLD-A-Dataset-for-GUI-oriented-Multimodal-LLM-based-Agents.md)|[paper](https://arxiv.org/abs/2406.10819)|
  |GUICourse: From General Vision Language Models to Versatile GUI Agents|Wentong Chen, Junbo Cui, Jinyi Hu, Yujia Qin, Junjie Fang, Yue Zhao, Chongyi Wang, Jun Liu, Guirong Chen, Yupeng Huo, Yuan Yao, Yankai Lin, Zhiyuan Liu, Maosong Sun|[Summary](/Summary/GUICourse-From-General-Vision-Language-Models-to-Versatile-GUI-Agents.md)|[paper](https://arxiv.org/abs/2406.11317)|
  |LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models|Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li|[Summary](/Summary/LLaVA-NeXT-Interleave-Tackling-Multi-image-Video-and-3D-in-Large-Multimodal-Models.md)|[paper](https://arxiv.org/abs/2407.07895)|
+ |LLaVA-OneVision: Easy Visual Task Transfer|Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li|[Summary]|[paper](https://arxiv.org/abs/2408.03326)|
 
 
 
