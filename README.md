@@ -49,7 +49,7 @@
  |LLaVA-OneVision: Easy Visual Task Transfer|Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li|[Summary](/Summary/LLaVA-OneVision-Easy-Visual-Task-Transfer.md)|[paper](https://arxiv.org/abs/2408.03326)|
  |Mapping Natural Language Instructions to Mobile UI Action Sequences|Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge|[Summary](/Summary/Mapping-Natural-Language-Instructions-to-Mobile-UI-Action-Sequences.md)|[paper](https://arxiv.org/abs/2005.03776)|
  |Mind2Web: Towards a Generalist Agent for the Web|Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su|[Summary](/Summary/Mind2Web-Towards-a-Generalist-Agent-for-the-Web.md)|[paper](https://arxiv.org/abs/2306.06070)|
- |MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?|Yi-Fan Zhang, Huanyu Zhang, Haochen Tian, Chaoyou Fu, Shuangqing Zhang, Junfei Wu, Feng Li, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan|[Summary]|[paper](https://arxiv.org/abs/2408.13257)|
+ |MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?|Yi-Fan Zhang, Huanyu Zhang, Haochen Tian, Chaoyou Fu, Shuangqing Zhang, Junfei Wu, Feng Li, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan|[Summary](/Summary/MME-RealWorld-Could-Your-Multimodal-LLM-Challenge-High-Resolution-Real-World-Scenarios-that-are-Difficult-for-Humans.md)|[paper](https://arxiv.org/abs/2408.13257)|
  
 
 
