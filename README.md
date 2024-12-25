@@ -48,7 +48,7 @@
  |LLaVA-NeXT-Interleave: Tackling Multi-image, Video, and 3D in Large Multimodal Models|Feng Li, Renrui Zhang, Hao Zhang, Yuanhan Zhang, Bo Li, Wei Li, Zejun Ma, Chunyuan Li|[Summary](/Summary/LLaVA-NeXT-Interleave-Tackling-Multi-image-Video-and-3D-in-Large-Multimodal-Models.md)|[paper](https://arxiv.org/abs/2407.07895)|
  |LLaVA-OneVision: Easy Visual Task Transfer|Bo Li, Yuanhan Zhang, Dong Guo, Renrui Zhang, Feng Li, Hao Zhang, Kaichen Zhang, Peiyuan Zhang, Yanwei Li, Ziwei Liu, Chunyuan Li|[Summary](/Summary/LLaVA-OneVision-Easy-Visual-Task-Transfer.md)|[paper](https://arxiv.org/abs/2408.03326)|
  |Mapping Natural Language Instructions to Mobile UI Action Sequences|Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge|[Summary](/Summary/Mapping-Natural-Language-Instructions-to-Mobile-UI-Action-Sequences.md)|[paper](https://arxiv.org/abs/2005.03776)|
- |Mind2Web: Towards a Generalist Agent for the Web|Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su|[Summary]|[paper](https://arxiv.org/abs/2306.06070)|
+ |Mind2Web: Towards a Generalist Agent for the Web|Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su|[Summary](/Summary/Mind2Web-Towards-a-Generalist-Agent-for-the-Web.md)|[paper](https://arxiv.org/abs/2306.06070)|
  
 
 
