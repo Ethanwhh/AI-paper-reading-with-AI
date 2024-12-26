@@ -50,6 +50,7 @@
  |Mapping Natural Language Instructions to Mobile UI Action Sequences|Yang Li, Jiacong He, Xin Zhou, Yuan Zhang, Jason Baldridge|[Summary](/Summary/Mapping-Natural-Language-Instructions-to-Mobile-UI-Action-Sequences.md)|[paper](https://arxiv.org/abs/2005.03776)|
  |Mind2Web: Towards a Generalist Agent for the Web|Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su|[Summary](/Summary/Mind2Web-Towards-a-Generalist-Agent-for-the-Web.md)|[paper](https://arxiv.org/abs/2306.06070)|
  |MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?|Yi-Fan Zhang, Huanyu Zhang, Haochen Tian, Chaoyou Fu, Shuangqing Zhang, Junfei Wu, Feng Li, Kun Wang, Qingsong Wen, Zhang Zhang, Liang Wang, Rong Jin, Tieniu Tan|[Summary](/Summary/MME-RealWorld-Could-Your-Multimodal-LLM-Challenge-High-Resolution-Real-World-Scenarios-that-are-Difficult-for-Humans.md)|[paper](https://arxiv.org/abs/2408.13257)|
+ |MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents|Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei Chen, Shoufa Chen|[Summary]|[paper](https://arxiv.org/abs/2406.08184)|
  
 
 
