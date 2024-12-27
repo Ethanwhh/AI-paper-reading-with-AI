@@ -53,7 +53,7 @@
  |MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents|Luyuan Wang, Yongyu Deng, Yiwei Zha, Guodong Mao, Qinmin Wang, Tianchen Min, Wei Chen, Shoufa Chen|[Summary](/Summary/MobileAgentBench-An-Efficient-and-User-Friendly-Benchmark-for-Mobile-LLM-Agents.md)|[paper](https://arxiv.org/abs/2406.08184)|
  |Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents|Boyu Gou, Ruohan Wang, Boyuan Zheng, Yanan Xie, Cheng Chang, Yiheng Shu, Huan Sun, Yu Su|[Summary](/Summary/Navigating-the-Digital-World-as-Humans-Do-Universal-Visual-Grounding-for-GUI-Agents.md)|[paper](https://arxiv.org/abs/2410.05243)|
  |Pix2Struct: Screenshot Parsing as Pretraining for Visual Language Understanding|Kenton Lee, Mandar Joshi, Iulia Turc, Hexiang Hu, Fangyu Liu, Julian Eisenschlos, Urvashi Khandelwal, Peter Shaw, Ming-Wei Chang, Kristina Toutanova|[Summary](/Summary/Pix2Struct-Screenshot-Parsing-as-Pretraining-for-Visual-Language-Understanding.md)|[paper](https://arxiv.org/abs/2210.03347)|
- |Rico: A Mobile App Dataset for Building Data-Driven Design Applications|Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman,  Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar|[Summary]|[paper](https://dl.acm.org/doi/10.1145/3126594.3126651)|
+ |Rico: A Mobile App Dataset for Building Data-Driven Design Applications|Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman,  Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar|[Summary](/Summary/Rico-A-Mobile-App-Dataset-for-Building-Data-Driven-Design-Applications.md)|[paper](https://dl.acm.org/doi/10.1145/3126594.3126651)|
  
 
 
