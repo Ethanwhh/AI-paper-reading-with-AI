@@ -56,7 +56,7 @@
  |Rico: A Mobile App Dataset for Building Data-Driven Design Applications|Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman,  Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar|[Summary](/Summary/Rico-A-Mobile-App-Dataset-for-Building-Data-Driven-Design-Applications.md)|[paper](https://dl.acm.org/doi/10.1145/3126594.3126651)|
  |Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels|Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P. Bigham|[Summary](/Summary/Screen-Recognition-Creating-Accessibility-Metadata-for-Mobile-Applications-from-Pixels.md)|[paper](https://arxiv.org/abs/2101.04893)|
  |ScreenAI: A Vision-Language Model for UI and Infographics Understanding|Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma|[Summary]|[paper](https://arxiv.org/abs/2402.04615)|
- |SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents|Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu|[Summary]|[paper](https://arxiv.org/abs/2401.10935)|
+ |SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents|Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu|[Summary](/Summary/SeeClick-Harnessing-GUI-Grounding-for-Advanced-Visual-GUI-Agents.md)|[paper](https://arxiv.org/abs/2401.10935)|
  
 
 
