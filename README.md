@@ -58,7 +58,7 @@
  |ScreenAI: A Vision-Language Model for UI and Infographics Understanding|Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma|[Summary](/Summary/ScreenAI-A-Vision-Language-Model-for-UI-and-Infographics-Understanding.md)|[paper](https://arxiv.org/abs/2402.04615)|
  |SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents|Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu|[Summary](/Summary/SeeClick-Harnessing-GUI-Grounding-for-Advanced-Visual-GUI-Agents.md)|[paper](https://arxiv.org/abs/2401.10935)|
  |Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models|Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou|[Summary](/Summary/Self-play-with-Execution-Feedback-Improving-Instruction-following-Capabilities-of-Large-Language-Models.md)|[paper](https://arxiv.org/abs/2406.13542)|
- |UFO: A UI-Focused Agent for Windows OS Interaction|Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang|[Summary]|[paper](https://arxiv.org/abs/2402.07939)|
+ |UFO: A UI-Focused Agent for Windows OS Interaction|Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang|[Summary](/Summary/UFO-A-UI-Focused-Agent-for-Windows-OS-Interaction.md)|[paper](https://arxiv.org/abs/2402.07939)|
  
 
 
