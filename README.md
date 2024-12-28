@@ -57,7 +57,7 @@
  |Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels|Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P. Bigham|[Summary](/Summary/Screen-Recognition-Creating-Accessibility-Metadata-for-Mobile-Applications-from-Pixels.md)|[paper](https://arxiv.org/abs/2101.04893)|
  |ScreenAI: A Vision-Language Model for UI and Infographics Understanding|Gilles Baechler, Srinivas Sunkara, Maria Wang, Fedir Zubach, Hassan Mansoor, Vincent Etter, Victor Cărbune, Jason Lin, Jindong Chen, Abhanshu Sharma|[Summary](/Summary/ScreenAI-A-Vision-Language-Model-for-UI-and-Infographics-Understanding.md)|[paper](https://arxiv.org/abs/2402.04615)|
  |SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents|Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu|[Summary](/Summary/SeeClick-Harnessing-GUI-Grounding-for-Advanced-Visual-GUI-Agents.md)|[paper](https://arxiv.org/abs/2401.10935)|
- |Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models|Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou|[Summary]|[paper](https://arxiv.org/abs/2406.13542)|
+ |Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models|Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou|[Summary](/Summary/Self-play-with-Execution-Feedback-Improving-Instruction-following-Capabilities-of-Large-Language-Models.md)|[paper](https://arxiv.org/abs/2406.13542)|
  
 
 
