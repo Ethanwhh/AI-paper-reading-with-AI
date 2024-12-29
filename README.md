@@ -60,6 +60,7 @@
  |Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models|Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou|[Summary](/Summary/Self-play-with-Execution-Feedback-Improving-Instruction-following-Capabilities-of-Large-Language-Models.md)|[paper](https://arxiv.org/abs/2406.13542)|
  |UFO: A UI-Focused Agent for Windows OS Interaction|Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang|[Summary](/Summary/UFO-A-UI-Focused-Agent-for-Windows-OS-Interaction.md)|[paper](https://arxiv.org/abs/2402.07939)|
  |VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning|Ziyang Meng, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei|[Summary](/Summary/VGA-Vision-GUI-Assistant-Minimizing-Hallucinations-through-Image-Centric-Fine-Tuning.md)|[paper](https://arxiv.org/abs/2406.14056)|
+ |VideoGUI: A Benchmark for GUI Automation from Instructional Videos|Kevin Qinghong Lin, Linjie Li, Difei Gao, Qinchen WU, Mingyi Yan, Zhengyuan Yang, Lijuan Wang, Mike Zheng Shou|[Summary]|[paper](https://arxiv.org/abs/2406.10227)|
  
 
 
