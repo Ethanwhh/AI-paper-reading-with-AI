@@ -1,4 +1,4 @@
-**We all know that reading papers is boring. In a limited time, we hope to quickly understand an article, grasp the core points in the shortest possible time, and then make trade-offs with accuracy. Therefore, I established a reasonable paper analysis workflow, aiming to quickly extract effective information.**
+**We all know that reading papers is boring. :sleepy: In a limited time, we hope to quickly understand an article, grasp the core points in the shortest possible time, and then make trade-offs with accuracy. Therefore, I established a reasonable paper analysis workflow, aiming to quickly extract effective information.**
 
 *The following is the structure of the summary.*
 
