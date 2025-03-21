@@ -1,18 +1,18 @@
-We all know that reading papers is boring. In a limited time, we hope to quickly understand an article, grasp the core points in the shortest possible time, and then make trade-offs with accuracy. Therefore, I established a reasonable paper analysis workflow, aiming to quickly extract effective information.
+**We all know that reading papers is boring. In a limited time, we hope to quickly understand an article, grasp the core points in the shortest possible time, and then make trade-offs with accuracy. Therefore, I established a reasonable paper analysis workflow, aiming to quickly extract effective information.**
 
-The following is the structure of the summary.
+*The following is the structure of the summary.*
 
-1. Mind map
-2. Main content
-   1. Author and team information
-   2. Background and motivation
-   3. Related research
-   4. Core idea
-   5. Solutions and technologies
-   6. Experiment and summary
-   7. Main contribution
-   8. Deficiency
-3. Code implementation
+- Mind map
+- Main content
+   - Author and team information
+   - Background and motivation
+   - Related research
+   - Core idea
+   - Solutions and technologies
+   - Experiment and summary
+   - Main contribution
+   - Deficiency
+- Code implementation
 
 # AI-paper-reading-with-AI
 
