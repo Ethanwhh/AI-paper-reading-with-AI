@@ -3,8 +3,8 @@
 *The following is the structure of the summary.*
 
 ```
-- Mind map
-- Main content
+- 1️⃣Mind map
+- 2️⃣Main content
    - Author and team information
    - Background and motivation
    - Related research
@@ -13,39 +13,14 @@
    - Experiment and summary
    - Main contribution
    - Deficiency
-- Code implementation
+- 3️⃣Code implementation
 ```
+
+The GUI agent is now included, and will continue to be updated in the future.
 
 # AI-paper-reading-with-AI
 
-## DL
-
-### History and foundation of deep learning
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
-|Deep learning|Yann LeCun, Yoshua Bengio, Geoffrey Hinton|[Summary](/Summary/Deep-learning.md)|[paper](https://www.nature.com/articles/nature14539)|
-|A Fast Learning Algorithm for Deep Belief Nets|Geoffrey E. Hinton, Simon Osindero, Yee-Whye Teh|[Summary](/Summary/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets.md)|[paper](https://direct.mit.edu/neco/article/18/7/1527-1554/7065)|
-
-### Deep learning method
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
-
-### Deep learning application
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
-
-### Dataset Distillation
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
-
- 
- 
-
-
-
-## LLM
-
-### GUI agent
+## GUI agent
 |Title|Authors|Summary|Links|
 |-----|-------|-------|-----|
 |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents.md)|[paper](https://arxiv.org/abs/2403.17918)|
@@ -78,23 +53,8 @@
 |Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models|Guanting Dong, Keming Lu, Chengpeng Li, Tingyu Xia, Bowen Yu, Chang Zhou, Jingren Zhou|[Summary](/Summary/Self-play-with-Execution-Feedback-Improving-Instruction-following-Capabilities-of-Large-Language-Models.md)|[paper](https://arxiv.org/abs/2406.13542)|
 |UFO: A UI-Focused Agent for Windows OS Interaction|Chaoyun Zhang, Liqun Li, Shilin He, Xu Zhang, Bo Qiao, Si Qin, Minghua Ma, Yu Kang, Qingwei Lin, Saravan Rajmohan, Dongmei Zhang, Qi Zhang|[Summary](/Summary/UFO-A-UI-Focused-Agent-for-Windows-OS-Interaction.md)|[paper](https://arxiv.org/abs/2402.07939)|
 |VGA: Vision GUI Assistant -- Minimizing Hallucinations through Image-Centric Fine-Tuning|Ziyang Meng, Yu Dai, Zezheng Gong, Shaoxiong Guo, Minglong Tang, Tongquan Wei|[Summary](/Summary/VGA-Vision-GUI-Assistant-Minimizing-Hallucinations-through-Image-Centric-Fine-Tuning.md)|[paper](https://arxiv.org/abs/2406.14056)|
-|You Only Look at Screens: Multimodal Chain-of-Action Agents|Zhuosheng Zhang, Aston Zhang|[Summary](/Summary/You-Only-Look-at-Screens-Multimodal-Chain-of-Action-Agents.md)|[paper](https://arxiv.org/abs/2309.11436)|
- 
+|You Only Look at Screens: Multimodal Chain-of-Action Agents|Zhuosheng Zhang, Aston Zhang|[Summary](/Summary/You-Only-Look-at-Screens-Multimodal-Chain-of-Action-Agents.md)|[paper](https://arxiv.org/abs/2309.11436)
 
-
-
-
-
-
-### LLM Security/Privacy/Jailbreak/Illusion
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
-
-## ML
-### Adversarial Attacks
-|Title|Authors|Summary|Links|
-|-----|-------|-------|-----|
- 
 
 
 
