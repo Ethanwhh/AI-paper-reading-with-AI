@@ -2,9 +2,9 @@
 
 *The following is the structure of the summary.*
 
->
-- Mind map
-- Main content
+
+>- Mind map
+>- Main content
    - Author and team information
    - Background and motivation
    - Related research
