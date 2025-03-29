@@ -2,6 +2,7 @@
 
 *The following is the structure of the summary.*
 
+>
 - Mind map
 - Main content
    - Author and team information
