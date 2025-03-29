@@ -3,8 +3,8 @@
 *The following is the structure of the summary.*
 
 ```
-- 1️⃣Mind map
-- 2️⃣Main content
+1️⃣- Mind map
+- Main content
    - Author and team information
    - Background and motivation
    - Related research
@@ -13,7 +13,7 @@
    - Experiment and summary
    - Main contribution
    - Deficiency
-- 3️⃣Code implementation
+- Code implementation
 ```
 
 The GUI agent is now included, and will continue to be updated in the future.
