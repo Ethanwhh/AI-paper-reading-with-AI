@@ -2,7 +2,7 @@
 
 *The following is the structure of the summary.*
 
-
+```
 1️⃣Mind map
 2️⃣Main content
    - Author and team information
@@ -14,7 +14,7 @@
    - Main contribution
    - Deficiency
 3️⃣Code implementation
-
+```
 
 The GUI agent is now included, and will continue to be updated in the future.
 
