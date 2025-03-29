@@ -2,19 +2,19 @@
 
 *The following is the structure of the summary.*
 
-
->- Mind map
->- Main content
-   >- Author and team information
-   >- Background and motivation
-   >- Related research
-   >- Core idea
-   >- Solutions and technologies
-   >- Experiment and summary
-   >- Main contribution
-   >- Deficiency
->- Code implementation
-
+```
+- Mind map
+- Main content
+   - Author and team information
+   - Background and motivation
+   - Related research
+   - Core idea
+   - Solutions and technologies
+   - Experiment and summary
+   - Main contribution
+   - Deficiency
+- Code implementation
+```
 
 # AI-paper-reading-with-AI
 
