@@ -19,7 +19,7 @@
 # AI-paper-reading-with-AI
 
 ## GUI agent
-|Title|Authors|Summary|Links|
+|Title|Authors|Summary(EN / ZH-CN)|Time|Links|
 |-----|-------|-------|-----|
 |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents.md)|[paper](https://arxiv.org/abs/2403.17918)|
 |Android in the Wild: A Large-Scale Dataset for Android Device Control|Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap|[Summary](/Summary/Android-in-the-Wild-A-Large-Scale-Dataset-for-Android-Device-Control.md)|[paper](https://arxiv.org/abs/2307.10088)|
