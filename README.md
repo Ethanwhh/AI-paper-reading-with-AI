@@ -5,18 +5,16 @@
 ```
 1️⃣Mind map
 2️⃣Main content
-   - Author and team information
-   - Background and motivation
-   - Related research
-   - Core idea
-   - Solutions and technologies
-   - Experiment and summary
-   - Main contribution
-   - Deficiency
+   Author and team information
+   Background and motivation
+   Related research
+   Core idea
+   Solutions and technologies
+   Experiment and summary
+   Main contribution
+   Deficiency
 3️⃣Code implementation
 ```
-
-The GUI agent is now included, and will continue to be updated in the future.
 
 # AI-paper-reading-with-AI
 
