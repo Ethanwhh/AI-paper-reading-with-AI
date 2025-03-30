@@ -149,7 +149,7 @@
 
 以下为基于论文框架的 Python 伪代码，模拟 GUI 代理的核心流程：
 
-```
+```python
 from langchain.llms import OpenAI
 from PIL import Image
 import cv2
