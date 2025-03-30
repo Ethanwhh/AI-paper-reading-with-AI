@@ -78,23 +78,23 @@
 
 1. **Sensing module** :
 
-  - Accessibility apis (system-level semantic parsing, such as the Android Accessibility API).
+    - Accessibility apis (system-level semantic parsing, such as the Android Accessibility API).
 
-  - HTML/DOM parsing (page structure analysis, such as DOM ranking of Mind2Web).
+    - HTML/DOM parsing (page structure analysis, such as DOM ranking of Mind2Web).
 
-  - Screen vision (screenshot recognition, e.g. GPT-4V parsing UI elements).
+    - Screen vision (screenshot recognition, e.g. GPT-4V parsing UI elements).
 
-  - Hybrid interface (multi-modal fusion, such as OS-Atlas combining vision and text).
+    - Hybrid interface (multi-modal fusion, such as OS-Atlas combining vision and text).
 
 2. **Reasoning and Planning** :
 
-  - Inside knowledge: LLM simulated action results (WebDreamer), hierarchy planning (MobA).
+    - Inside knowledge: LLM simulated action results (WebDreamer), hierarchy planning (MobA).
 
-  - External knowledge: A combination of search algorithms (A*, MCTS) or Toolchain*.
+    - External knowledge: A combination of search algorithms (A*, MCTS) or Toolchain*.
 
 3. **Action Module** :
 
-  - Textual grounding (DOM/API based element positioning) or visual grounding (pixel level coordinate positioning).
+    - Textual grounding (DOM/API based element positioning) or visual grounding (pixel level coordinate positioning).
 
 **Training method**
 
