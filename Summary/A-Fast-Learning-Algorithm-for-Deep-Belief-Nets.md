@@ -1,7 +1,7 @@
 # A Fast Learning Algorithm for Deep Belief Nets
 
 ## 思维导图
-![思维导图](/imgs/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets.jpg)
+![思维导图](/imgs/A-Fast-Learning-Algorithm-for-Deep-Belief-Nets.png)
 
 ## 全文总结
 本文介绍了一种用于深度信念网络的快速学习算法，通过使用 “互补先验” 来消除推理困难的问题，并提出了一种快速贪心算法和微调算法，用于学习深度有向信念网络。该算法在手写数字图像和标签的联合分布建模中取得了良好的效果，并且在 MNIST 数据库上的分类性能优于其他方法。
