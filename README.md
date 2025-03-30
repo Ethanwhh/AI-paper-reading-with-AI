@@ -21,6 +21,8 @@
 ## GUI agent
 |📄Title|👨‍💻Author|📑Publisher|🔑Key|📖Summary(EN / ZH-CN)|📅Date|🔗Links|
 |:-----:|:-------:|:---------:|:----:|:-------------------:|:-----:|:-----:|
+|GUI Agents: A Survey|Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, Yu Xia, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K. Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A. Rossi, Franck Dernoncourt|arXiv|survey|EN / ZH-CN|18 Dec 2024|[paper](https://arxiv.org/abs/2412.13501)|
+
 |AgentStudio: A Toolkit for Building General Virtual Agents|Longtao Zheng, Zhiyuan Huang, Zhenghai Xue, Xinrun Wang, Bo An, Shuicheng Yan|[Summary](/Summary/AgentStudio-A-Toolkit-for-Building-General-Virtual-Agents.md)|[paper](https://arxiv.org/abs/2403.17918)|
 |Android in the Wild: A Large-Scale Dataset for Android Device Control|Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap|[Summary](/Summary/Android-in-the-Wild-A-Large-Scale-Dataset-for-Android-Device-Control.md)|[paper](https://arxiv.org/abs/2307.10088)|
 |Android in the Zoo: Chain-of-Action-Thought for GUI Agents|Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei, Duyu Tang|[Summary](/Summary/Android-in-the-Zoo-Chain-of-Action-Thought-for-GUI-Agents.md)|[paper](https://arxiv.org/abs/2403.02713)|
