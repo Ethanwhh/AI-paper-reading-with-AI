@@ -150,7 +150,6 @@
 以下为基于论文框架的 Python 伪代码，模拟 GUI 代理的核心流程：
 
 ```
-{
 from langchain.llms import OpenAI
 from PIL import Image
 import cv2
@@ -208,7 +207,6 @@ agent = GUIAgent()
 screenshot = Image.open("screenshot.png")  # 假设截图
 dom = "<html><body><button>搜索</button><input id='search-box'/></body></html>"
 agent.run("搜索笔记本电脑", "web", screenshot, dom)
-}
 ```
 
 **代码说明**：
